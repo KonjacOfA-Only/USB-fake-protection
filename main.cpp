@@ -197,8 +197,8 @@ void check() {
 
 void welcomepage() {
 	cout<<endl<<endl<<endl;
-	cout<<"                          USB保护程序 v1.1.1              "<<endl;
-	cout<<"                    编译时间:Official-20190929-2100       "<<endl;
+	cout<<"                          USB保护程序 v1.1.2              "<<endl;
+	cout<<"                    编译时间:Official-20191003-1434       "<<endl;
 	cout<<"                  编译人:A-Only的小蒟蒻(源代码贡献者)     "<<endl;
 	cout<<endl;
 	cout<<"              BND-STUDIO project-DDF 项目:USB-protection  "<<endl;
